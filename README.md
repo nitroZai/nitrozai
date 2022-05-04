@@ -1,16 +1,16 @@
-### Hi there 👋
+<h3 align="center">Hi there, Ramchand Nissankara here 👋</h3>
 
-<!--
-**nitroZai/nitrozai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://github.com/nitroZai/nitroData/blob/main/IMG_20210307_134733.jpg">
 
-Here are some ideas to get you started:
+Find me on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Linkedin Badge](https://img.shields.io/badge/-TarakaRamchandNissankara-blue?style=plastic-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/taraka-ramchand-nissankara-34595317a/)](https://www.linkedin.com/in/taraka-ramchand-nissankara-34595317a/)
+
+Top Technologies that I work on a daily basis:
+1. Django
+2. Front-End Essentials
+3. Angular*
+
+Recent Projects: (Check out repositories to know more)
+Voter Management System using Django Authentication
+Sunflower School using DJango ORM
