@@ -12,5 +12,7 @@ Top Technologies that I work on a daily basis:
 3. Angular*
 
 Recent Projects: (Check out repositories to know more)
-Voter Management System using Django Authentication
-Sunflower School using DJango ORM
+1. Voter Management System using Django Authentication
+2. Sunflower School using DJango ORM
+3. Customer User Model Django Authentication
+4. Forein Key Django
