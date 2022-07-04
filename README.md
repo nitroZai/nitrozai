@@ -9,10 +9,9 @@ Find me on
 Top Technologies that I work on a daily basis:
 1. Django
 2. Front-End Essentials
-3. Angular*
+3. Angular
 
 Recent Projects: (Check out repositories to know more)
-1. Voter Management System using Django Authentication
+1. Voter Management System using Django, Angular, JWT Authentication
 2. Sunflower School using DJango ORM
-3. Customer User Model Django Authentication
-4. Forein Key Django
+3. E-Commerce using Django
