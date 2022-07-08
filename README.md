@@ -18,4 +18,4 @@ Recent Projects: (Check out repositories to know more)
 2. E-Commerce using Django
 
 ## <h5 align="center">A Quote that I truly abide by in my life</h5>
-> Stress, Pressure, Anxiety, and Pain are gifts in life. Once you accept these gifts. They'll become your power. Fueling you for a better tomorrow, better future.
+> <h6 align="center"> Stress, Pressure, Anxiety, and Pain are gifts in life. Once you accept these gifts. They'll become your power. Fueling you for a better tomorrow, better future. </h6>
