@@ -19,3 +19,5 @@ Recent Projects: (Check out repositories to know more)
 
 ## <h5 align="center">A Quote that I truly abide by in my life</h5>
 > <h6 align="center"> Stress, Pressure, Anxiety, and Pain are gifts in life. Once you accept these gifts. They'll become your power. Fueling you for a better tomorrow, better future. </h6>
+
+<img src="https://github.com/nitroZai/nitroData/blob/main/DSC_9184.JPG">
