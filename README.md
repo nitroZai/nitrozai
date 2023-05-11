@@ -2,15 +2,6 @@
 
 <img src="https://github.com/nitroZai/nitroData/blob/main/IMG_20210307_134733.jpg">
 
-
-## <h5 align="center">A Quote that I truly abide by in my life</h5>
-> <h6 align="center"> Stress, Pressure, Anxiety, and Pain are gifts in life. Once you accept these gifts. They'll become your power. Fueling you for a better tomorrow, better future. </h6>
-
-#
-
-## <h4 align="center">A Little bit about myself and my background:<h4>
-> <h6 align="center">Right from the age of 4, I've been with computers, lived with computers. I've seen the heavy Harddisks turn into M.2 NVMe's over last 18 years. Along with the technological experience that I bring onto the table, I've been a true Enthusiast of Leadership and grateful that I've experienced it at it's best level. I've lead over 80+ members at AIESEC in Hyderabad in the total period of 2 years (2020 - 2021). Today, I'm here after exploring a lot of domains and skills to develope solutions for the business problems.</h6>
-
 #
   
 <img src="https://github.com/nitroZai/nitroData/blob/main/DSC_9184.JPG">
